@@ -1,3 +1,5 @@
+# Задание: Создаём парсер веб-контента.
+
 from urllib import request
 from bs4 import BeautifulSoup
 
